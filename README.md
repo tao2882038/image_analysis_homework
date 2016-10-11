@@ -1,3 +1,3 @@
 # image_analysis_homework
 
-翻译
+论文翻译
